@@ -1,4 +1,4 @@
-# Uncle-Drugs-Mod-MC
+       Uncle Drugs Mod Mineraft
 ############################################
 this mod add weed to minecraft in future I want to add a lot of more drugs for
 !!!!!!!!!!!!!!REMEMBER it is only mod for game do not take drugs in real life!!!!!!!!!!!!!!!!!!!!!! 
