@@ -9,11 +9,12 @@ Sorry for my English from the mountion ;) (joke)
 changelog:
 ###########################################
        0.1.0
--added weed without textoures of plant (Marcin my friend is going to make it DC: marcin4098 I love you too Marcin <333 )
+- added weed without textoures of plant (Marcin my friend is going to make it DC: marcin4098 I love you too Marcin <333 )
        0.2.0
--a lot of repaired bugs
--full cocaine stuff
--textoures of weed
+- a lot of repaired bugs
+- full cocaine stuff
+- textoures of weed
+- new villager profession - dealer
 ###########################################
 Plans 
 (I will translate when I will finish appropriate versions)
