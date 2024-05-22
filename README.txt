@@ -13,7 +13,7 @@ changelog:
        0.2.0
 - a lot of repaired bugs
 - full cocaine stuff
-- textoures of weed
+- textoures of weed plant
 - new villager profession - dealer
 ###########################################
 Plans 
