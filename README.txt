@@ -27,6 +27,7 @@ Plans
 4. poprawa hitboxów roślin
 5. bletki oraz filtry
 6. blencher gui dodanie progress bar
+7. wydłurzenie czasu wzrostu roślin
        0.3.0
 1. dodanie nowej używki
 ###########################################
