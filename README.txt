@@ -1,6 +1,6 @@
        Uncle Drugs Mod Mineraft
 ############################################
-this mod add weed to minecraft in future I want to add a lot of more drugs for
+this mod add weed and cocaine to minecraft in future I want to add a lot of more drugs for
 !!!!!!!!!!!!!!REMEMBER it is only mod for game do not take drugs in real life!!!!!!!!!!!!!!!!!!!!!! 
 this mod use NEOFORGE and is on minecraft version 1.20.4 i meke it for fun to learn
 how  MCreator works. I will translate it on English in next version.
