@@ -28,7 +28,9 @@ Plans
 5. bletki oraz filtry
 6. blencher gui dodanie progress bar
 7. wydłurzenie czasu wzrostu roślin
+8. dodanie opium
        0.3.0
-1. dodanie nowej używki
+1. dodanie papierosów
+2. dodanie osobnych filtrów do papierosów
 ###########################################
 Have Fun!!!
