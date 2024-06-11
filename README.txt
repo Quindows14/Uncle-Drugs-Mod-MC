@@ -10,27 +10,30 @@ changelog:
 ###########################################
        0.1.0
 - added weed without textoures of plant (Marcin my friend is going to make it DC: marcin4098 I love you too Marcin <333 )
+##########################################
        0.2.0
 - a lot of repaired bugs
 - full cocaine stuff
 - textoures of weed plant
 - new villager profession - dealer
-###########################################
+##########################################
+       0.2.5
+1. destroing plant after jump
+2. Better graphic of 3th stage of cocaine
+4. better hitbox of plants
+5. skins and filters
+6. blencher gui updated
+7. longer growing time
+#########################################
 Plans 
 (I will translate when I will finish appropriate versions)
 (this is in Polish if you want you can translate)
-##########################################
-       0.2.5
-1. poprawa roślin: zniszczenie po skoku, wrażliwość na światło
-2. cocaine stage 3 poprawa grafiki 
-3. zlecić marcinowi poprawe dilera villagera
-4. poprawa hitboxów roślin
-5. bletki oraz filtry
-6. blencher gui dodanie progress bar
-7. wydłurzenie czasu wzrostu roślin
-8. dodanie opium
        0.3.0
-1. dodanie papierosów
-2. dodanie osobnych filtrów do papierosów
+1. dodanie opium
+##########################################
+       0.3.0
+1. dodanie osobnych filtrów do papierosów
+2. dodanie tytoniu 
+3. dodanie papierosów
 ###########################################
 Have Fun!!!
