@@ -25,13 +25,14 @@ changelog:
 6. blencher gui updated
 7. longer growing time
 #########################################
+       0.3.0
+1. added opium
+##########################################
 Plans 
 (I will translate when I will finish appropriate versions)
 (this is in Polish if you want you can translate)
-       0.3.0
-1. dodanie opium
-##########################################
-       0.3.0
+#########################################
+       0.4.0
 1. dodanie osobnych filtrów do papierosów
 2. dodanie tytoniu 
 3. dodanie papierosów
