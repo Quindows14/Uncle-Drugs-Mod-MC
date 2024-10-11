@@ -32,9 +32,5 @@ Plans
 (I will translate when I will finish appropriate versions)
 (this is in Polish if you want you can translate)
 #########################################
-       0.4.0
-1. dodanie osobnych filtrów do papierosów
-2. dodanie tytoniu 
-3. dodanie papierosów
-###########################################
+prace wstrzymane do odwołania 
 Have Fun!!!
